@@ -1,8 +1,6 @@
 # Proyecto_final
 # Predicción de COVID-19
 
-Este proyecto se centra en predecir si un paciente puede tener o no COVID-19 utilizando datos recopilados de [fuente de datos](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico).
-
 ## Descripción
 
 La pandemia de COVID-19 ha tenido un impacto significativo en la salud pública en todo el mundo. La detección temprana y precisa de casos positivos es esencial para controlar la propagación del virus. Este proyecto utiliza técnicas de aprendizaje automático para predecir si un paciente puede tener COVID-19 en función de ciertos atributos y síntomas.
